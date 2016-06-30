@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Nick</name>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Pahsa</name>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Yuriy</name>
+    </item>
+    <item>
+        <id>4</id>
+        <name>Cath</name>
+    </item>
+    <item>
+        <id>5</id>
+        <name>name</name>
+    </item>
+    <item>
+        <id>6</id>
+        <name>afaa</name>
+    </item>
+</items>

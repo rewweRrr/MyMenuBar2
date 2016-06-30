@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 8px;
+}
+
+#top-menu {
+    min-height: 65px;
+    -webkit-border-horizontal-spacing: 10px;
+}
+
+#bottom-menu {
+    -webkit-border-vertical-spacing: 5px;
+}
